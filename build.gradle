@@ -1,8 +1,4 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.jfrog.bintray'
-apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.example.michele.michelelacorteelasticprogressbar' // Change this to match your package name
-version = '1.0.0' // Change this to match your version number
 
 android {
     compileSdkVersion 23
@@ -36,47 +32,4 @@ buildscript {
     repositories {
         jcenter()
     }
-    dependencies {
-        classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.2'
-        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.3'
-    }
-}
-task sourcesJar(type: Jar) {
-    from android.sourceSets.main.java.srcDirs
-    classifier = 'sources'
-}
-
-task javadoc(type: Javadoc) {
-    source = android.sourceSets.main.java.srcDirs
-    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
-}
-
-task javadocJar(type: Jar, dependsOn: javadoc) {
-    classifier = 'javadoc'
-    from javadoc.destinationDir
-}
-
-artifacts {
-    archives javadocJar
-    archives sourcesJar
-}
-
-bintray {
-    user = 'michelelacorte'
-    key = 'a662763564bee6fa8c354b7d76d85ead4ef74e1c'
-    pkg {
-        repo = 'maven'
-        name = 'it.michele.michelelacorteelasticprogressbar'
-
-        version {
-            name = '1.0.0'
-            desc = 'Elastic Progress Bar'
-            vcsTag = '1.0.0'
-        }
-
-        licenses = ['Apache-2.0']
-        vcsUrl = 'https://github.com/michelelacorte/ElasticProgressBar/blob/master/LICENSE'
-        websiteUrl = 'https://github.com/michelelacorte/ElasticProgressBar'
-    }
-    configurations = ['archives']
 }
