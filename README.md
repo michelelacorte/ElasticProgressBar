@@ -44,6 +44,12 @@ mElasticDownloadView.setProgress(10);
 //mElasticDownloadView.fail();
 ```
 
+You can set color background with (default is transparent):
+
+```
+mElasticDownloadView.setColorBackground(int color);
+```
+
 ##CHANGELOG
 **v1.0.0**
 - Support API 23
