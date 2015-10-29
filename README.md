@@ -10,9 +10,7 @@ Elastic Progress Bar , is a loading bar made ​​for Android , the initial des
 
 Elastic Progress Bar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
 ```
-dependencies {
-    compile 'com.example.michele.michelelacorteelasticprogressbar:michelelacorteelasticprogressbar:1.0.0'
-}
+Coming soon
 ```
 In you `layout.xml`
 
