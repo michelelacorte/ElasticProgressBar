@@ -1,4 +1,5 @@
 # ElasticProgressBar
+##COMING SOON! STAY TUNED
 
 ![alt tag](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
 
