@@ -43,21 +43,32 @@ mElasticDownloadView.setProgress(10);
 //mElasticDownloadView.fail();
 ```
 
-You can set color background with (default is `colorPrimary`):
+You can set color background with (default is `colorPrimary`), make sure to call this before `setContentView(..)` of your activity:
 
 ```
-mElasticDownloadView.setColorBackground(int color);
+OptionView.setBackgroundColorSquare(int color)
 ```
 
 ##CHANGELOG
 **v1.0.0**
 - Support API 23
 - Added class `OptionView.java` for set-up progress bar with your own options
-- Added method `isAnimationFinished()`
-- Added method `setColorBackground(int color)`
+- Added method `isAnimationFinished()` called by mElasticDownloadView
+Method called by `OptionView`
+- Added method `setBackgroundColorSquare(int color)`
 - Added method `getColorBackground()`
-- Added method ``
-- - Added method ``
+- Added method `setColorCloud(int color)`
+- Added method `getColorCloud`
+- Added method `setColorProgressBar(int color)`
+- Added method `getColorProgressBar`
+- Added method `setColorProgressBarInProgress(int color)`
+- Added method `getColorProgressBarInProgress`
+- Added method `setColorProgressBarText(int color)`
+- Added method `getColorProgressBarText`
+- Added method `setColorSuccess(int color)`
+- Added method `getColorSuccess`
+- Added method `setColorFail(int color)`
+- Added method `getColorFail`
 - Removed `@InjectView` annotation for set-up progress bar
 
 ##CREDITS
