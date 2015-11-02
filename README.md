@@ -55,7 +55,7 @@ For set `noBackground` do this (without `setBackgroundColorSquare`, remember `se
 OptionView.noBackground = true;
 ```
 
-![alt tag](http://postimg.org/image/lk04m6jnv/)
+![alt tag](http://s17.postimg.org/b9xpmxtsf/Screenshot_2015_11_02_15_21_25.png)
 
 ##CHANGELOG
 **v1.0.0**
