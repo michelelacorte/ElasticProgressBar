@@ -67,19 +67,19 @@ OptionView.noBackground = true;
 
 Method called by `OptionView`
 
-- Added method `setBackgroundColorSquare(int color)`
+- Added method `setBackgroundColorSquare(int color)` default is `colorPrimary`
 - Added method `getColorBackgroundSquare()`
-- Added method `setColorCloud(int color)`
+- Added method `setColorCloud(int color)` default is `Color.WHITE`
 - Added method `getColorCloud`
-- Added method `setColorProgressBar(int color)`
+- Added method `setColorProgressBar(int color)` default is `Color.BLACK`
 - Added method `getColorProgressBar`
-- Added method `setColorProgressBarInProgress(int color)`
+- Added method `setColorProgressBarInProgress(int color)` default is `Color.BLACK`
 - Added method `getColorProgressBarInProgress`
-- Added method `setColorProgressBarText(int color)`
+- Added method `setColorProgressBarText(int color)` default is `Color.BLACK`
 - Added method `getColorProgressBarText`
-- Added method `setColorSuccess(int color)`
+- Added method `setColorSuccess(int color)` default is `colorPrimary`
 - Added method `getColorSuccess`
-- Added method `setColorFail(int color)`
+- Added method `setColorFail(int color)` default is `colorPrimary`
 - Added method `getColorFail`
 - Added boolean `noBackground` default is false
 - Removed `@InjectView` annotation for set-up progress bar
