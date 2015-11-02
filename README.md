@@ -49,6 +49,12 @@ You can set color background with (default is `colorPrimary`), make sure to call
 OptionView.setBackgroundColorSquare(int color)
 ```
 
+For set `noBackground` do this (without `setBackgroundColorSquare`, remember `setBackgroundColorSquare` is priority than `noBackground`
+
+```
+OptionView.noBackground = true;
+```
+
 ##CHANGELOG
 **v1.0.0**
 - Support API 23
@@ -69,6 +75,7 @@ Method called by `OptionView`
 - Added method `getColorSuccess`
 - Added method `setColorFail(int color)`
 - Added method `getColorFail`
+- Added boolean `noBackground` default is false
 - Removed `@InjectView` annotation for set-up progress bar
 
 ##CREDITS
