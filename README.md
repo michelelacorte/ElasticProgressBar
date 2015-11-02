@@ -56,7 +56,7 @@ OptionView.setBackgroundColorSquare(int color)
 - Added method `isAnimationFinished()` called by mElasticDownloadView
 Method called by `OptionView`
 - Added method `setBackgroundColorSquare(int color)`
-- Added method `getColorBackground()`
+- Added method `getColorBackgroundSquare()`
 - Added method `setColorCloud(int color)`
 - Added method `getColorCloud`
 - Added method `setColorProgressBar(int color)`
