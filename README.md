@@ -64,6 +64,7 @@ OptionView.noBackground = true;
 - Support API 23
 - Added class `OptionView.java` for set-up progress bar with your own options
 - Added method `isAnimationFinished()` called by mElasticDownloadView
+- Removed `@InjectView` annotation for set-up progress bar
 
 Method called by `OptionView`
 
@@ -82,8 +83,6 @@ Method called by `OptionView`
 - Added method `setColorFail(int color)` default is `colorPrimary`
 - Added method `getColorFail`
 - Added boolean `noBackground` default is false
-
-- Removed `@InjectView` annotation for set-up progress bar
 
 ##CREDITS
 
