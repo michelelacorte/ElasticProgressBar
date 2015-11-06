@@ -1,5 +1,5 @@
 # ElasticProgressBar
-##COMING SOON! STAY TUNED
+##IS NOW RELEASED!
 
 ![alt tag](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
 
@@ -11,8 +11,28 @@ Elastic Progress Bar , is a loading bar made ​​for Android , the initial des
 
 Elastic Progress Bar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
 ```
-Coming soon
+compile 'com.example.michele.michelelacorteelasticprogressbar:michelelacorteelasticprogressbar:1.0.2
 ```
+
+In alternative you can use AAR repository with:
+
+```
+buildscript {
+    repositories {
+        maven{
+            url "https://dl.bintray.com/michelelacorte/maven/"
+        }
+        jcenter()
+    }
+}
+```
+
+And add this dependecies
+
+```
+compile 'com.example.michele.michelelacorteelasticprogressbar:michelelacorteelasticprogressbar:1.0.2@aar'
+```
+
 In you `layout.xml`
 
 ```
@@ -60,6 +80,10 @@ OptionView.noBackground = true;
 ![alt tag](http://s1.postimg.org/g5wq1wwn3/Screenshot_2015_11_02_15_21_32.png)
 
 ##CHANGELOG
+
+**V1.0.2**
+- Minor Bug Fixed
+ 
 **v1.0.0**
 - Support API 23
 - Added class `OptionView.java` for set-up progress bar with your own options
