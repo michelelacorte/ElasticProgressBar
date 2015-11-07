@@ -89,6 +89,7 @@ Android API 21+
 **v1.0.3 Coming Soon**
 - Compatibility with API 8+
 - Boolean noIntro for set-up progress bar with no intro
+- Add Example App to GitHub repo
 
 **v1.0.2**
 - Minor Bug Fixed
