@@ -79,6 +79,11 @@ OptionView.noBackground = true;
 
 ![alt tag](http://s1.postimg.org/g5wq1wwn3/Screenshot_2015_11_02_15_21_32.png)
 
+
+##SYSTEM REQUIREMENT
+
+Android API 21+
+
 ##CHANGELOG
 
 **V1.0.2**
