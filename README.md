@@ -91,7 +91,7 @@ Android API 21+
 - Boolean noIntro for set-up progress bar with no intro
 - Add Example App to GitHub repo
 
-See App Example Preview
+See App Example Preview!!!
 
 ![alt tag](http://i.giphy.com/3o85xBKcPnsY2xAuZi.gif)
 
