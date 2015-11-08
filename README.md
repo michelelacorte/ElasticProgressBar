@@ -87,7 +87,7 @@ Android API 21+
 ##CHANGELOG
 
 **v1.0.3 Coming Soon**
-- Compatibility with API 8+
+- Compatibility with API 11+
 - Boolean noIntro for set-up progress bar with no intro
 - Against to issue #1 package name "resized"
 - Add Example App to GitHub repo
