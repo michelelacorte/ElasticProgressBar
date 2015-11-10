@@ -2,5 +2,7 @@ language: android
 android:
   components:
     - build-tools-19.0.3
+    
+sudo: required
 
 script: ./gradlew testDevelopmentDebug
