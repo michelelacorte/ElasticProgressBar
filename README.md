@@ -1,6 +1,8 @@
 # ElasticProgressBar
 ##IS NOW RELEASED!
 
+[![alt tag](http://www.android-gems.com/badge/michelelacorte/ElasticProgressBar.svg)](http://www.android-gems.com/lib/michelelacorte/ElasticProgressBar?lib_id=697)
+
 ![alt tag](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
 
 ![alt tag](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif)
@@ -79,9 +81,24 @@ OptionView.noBackground = true;
 
 ![alt tag](http://s1.postimg.org/g5wq1wwn3/Screenshot_2015_11_02_15_21_32.png)
 
+
+##SYSTEM REQUIREMENT
+
+Android API 21+
+
 ##CHANGELOG
 
-**V1.0.2**
+**v1.0.3 Coming Soon**
+- Compatibility with API 11+
+- Boolean noIntro for set-up progress bar with no intro
+- Against to issue #1 package name "resized"
+- Add Example App to GitHub repo
+
+See App Example Preview!!!
+
+![alt tag](http://i.giphy.com/3o85xBKcPnsY2xAuZi.gif)
+
+**v1.0.2**
 - Minor Bug Fixed
  
 **v1.0.0**
