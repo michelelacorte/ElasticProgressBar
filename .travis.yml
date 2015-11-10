@@ -1,7 +1,0 @@
-language: android
-android:
-  components:
-    - build-tools-23.0.1
-    - android-23
-before_install:
- - chmod +x gradlew
