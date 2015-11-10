@@ -92,6 +92,7 @@ Android API 21+
 - Compatibility with API 11+
 - Boolean noIntro for set-up progress bar with no intro
 - Against to issue #1 package name "resized"
+- Added method `getProgress()`
 - Add Example App to GitHub repo
 
 See App Example Preview!!!
