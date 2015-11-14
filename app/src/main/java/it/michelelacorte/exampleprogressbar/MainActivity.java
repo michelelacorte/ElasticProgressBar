@@ -84,7 +84,6 @@ public class MainActivity extends AppCompatActivity {
                                 public void run() {
                                     //Set progress dinamically
                                     mElasticDownloadView.setProgress(progressStatus);
-                                    Log.d("Progress:", "" + mElasticDownloadView.getProgress());
                                 }
                             });
                         }
