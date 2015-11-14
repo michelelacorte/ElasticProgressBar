@@ -9,22 +9,24 @@
 
 Elastic Progress Bar , is a loading bar made ​​for Android , the initial design is https://github.com/Tibolte/ElasticDownload , I applied some changes to make it accessible to everyone!
 
+![alt tag](http://i.giphy.com/3o85xBKcPnsY2xAuZi.gif)
+
 ##USAGE
 
 Elastic Progress Bar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
 ```
-compile 'com.example.michele.michelelacorteelasticprogressbar:michelelacorteelasticprogressbar:1.0.2
+compile  'it.michelelacorte.elasticprogressbar:library:1.0.4'
 ```
 
 In alternative you can use AAR repository with:
 
 ```
-buildscript {
+allprojects {
     repositories {
-        maven{
-            url "https://dl.bintray.com/michelelacorte/maven/"
-        }
+        maven { url "https://dl.bintray.com/michelelacorte/maven/" }
         jcenter()
+        mavenCentral()
+
     }
 }
 ```
@@ -32,13 +34,13 @@ buildscript {
 And add this dependecies
 
 ```
-compile 'com.example.michele.michelelacorteelasticprogressbar:michelelacorteelasticprogressbar:1.0.2@aar'
+compile  'it.michelelacorte.elasticprogressbar:library:1.0.4@aar'
 ```
 
 In you `layout.xml`
 
 ```
-    <com.example.michele.michelelacorteelasticprogressbar.ElasticDownloadView
+    <it.michelelacorte.elasticprogressbar.ElasticDownloadView
         android:id="@+id/elastic_download_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -84,19 +86,15 @@ OptionView.noBackground = true;
 
 ##SYSTEM REQUIREMENT
 
-Android API 21+
+Android API 11+
 
 ##CHANGELOG
 
-**v1.0.3 Coming Soon**
+**v1.0.4**
 - Compatibility with API 11+
-- Boolean noIntro for set-up progress bar with no intro
-- Against to issue #1 package name "resized"
+- Added boolean `noIntro` for set-up progress bar with no intro (OptionView class)
+- Added method `getProgress()` called by mElasticDownloadView
 - Add Example App to GitHub repo
-
-See App Example Preview!!!
-
-![alt tag](http://i.giphy.com/3o85xBKcPnsY2xAuZi.gif)
 
 **v1.0.2**
 - Minor Bug Fixed
