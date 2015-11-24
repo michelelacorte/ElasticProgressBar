@@ -1,5 +1,6 @@
 # ElasticProgressBar
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ElasticProgressBar-green.svg?style=true)](https://android-arsenal.com/details/1/2826)
 [![alt tag](http://www.android-gems.com/badge/michelelacorte/ElasticProgressBar.svg)](http://www.android-gems.com/lib/michelelacorte/ElasticProgressBar?lib_id=697)
 
 ![alt tag](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
