@@ -15,7 +15,7 @@ Elastic Progress Bar , is a loading bar made ​​for Android , the initial des
 
 Elastic Progress Bar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
 ```
-compile  'it.michelelacorte.elasticprogressbar:library:1.0.4'
+compile  'it.michelelacorte.elasticprogressbar:library:1.0.5'
 ```
 
 In alternative you can use AAR repository with:
@@ -34,7 +34,7 @@ allprojects {
 And add this dependecies
 
 ```
-compile  'it.michelelacorte.elasticprogressbar:library:1.0.4@aar'
+compile  'it.michelelacorte.elasticprogressbar:library:1.0.5@aar'
 ```
 
 In you `layout.xml`
