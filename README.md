@@ -90,6 +90,10 @@ Android API 11+
 
 ##CHANGELOG
 
+**v1.0.5**
+- Fixed issue [#2](https://github.com/michelelacorte/ElasticProgressBar/issues/2)
+- Update library and gradle to last version
+
 **v1.0.4**
 - Compatibility with API 11+
 - Added boolean `noIntro` for set-up progress bar with no intro (OptionView class)
