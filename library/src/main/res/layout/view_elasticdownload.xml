@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <it.michelelacorte.elasticprogressbar.ProgressDownloadView
+        android:id="@+id/progress_download_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <it.michelelacorte.elasticprogressbar.IntroView
+        android:id="@+id/intro_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</merge>
