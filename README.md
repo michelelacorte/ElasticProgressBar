@@ -9,6 +9,8 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ElasticProgressBar-green.svg?style=true)](https://android-arsenal.com/details/1/2826)
 [![alt tag](http://www.android-gems.com/badge/michelelacorte/ElasticProgressBar.svg)](http://www.android-gems.com/lib/michelelacorte/ElasticProgressBar?lib_id=697)
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ![alt tag](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/success.gif)
 
 ![alt tag](https://raw.githubusercontent.com/Tibolte/ElasticDownload/master/fail.gif)
