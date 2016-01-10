@@ -4,6 +4,8 @@
 
 [![API](https://img.shields.io/badge/API-11%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=11)
 
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ElasticProgressBar-green.svg?style=true)](https://android-arsenal.com/details/1/2826)
 [![alt tag](http://www.android-gems.com/badge/michelelacorte/ElasticProgressBar.svg)](http://www.android-gems.com/lib/michelelacorte/ElasticProgressBar?lib_id=697)
 
