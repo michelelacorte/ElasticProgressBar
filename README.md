@@ -92,6 +92,12 @@ OptionView.noBackground = true;
 
 ![alt tag](http://s1.postimg.org/g5wq1wwn3/Screenshot_2015_11_02_15_21_32.png)
 
+##GENERAL ISSUE
+ - Refer to issue [#3](https://github.com/michelelacorte/ElasticProgressBar/issues/3)
+ 
+To solve `Error in parsing "g/"` you have to add on `defaultConfig` tag in `build.gradle` this line:
+
+    generatedDensities = []
 
 ##SYSTEM REQUIREMENT
 
