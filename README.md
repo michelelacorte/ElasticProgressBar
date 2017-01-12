@@ -170,6 +170,8 @@ Author: Tibolte https://github.com/Tibolte/ElasticDownload
 
 Edit by: Michele Lacorte (micky1995g@gmail.com)
 
+Follow my [Google+](https://plus.google.com/u/0/collection/McidZB)
+
 ##LICENSE
 
 ElasticProgressBar new license
