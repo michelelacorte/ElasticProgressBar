@@ -1,6 +1,5 @@
 # ElasticProgressBar
 
-<span class="badge-paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LY7EX8WMWPWV6" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
 [![Twitter](https://img.shields.io/badge/Twitter-@LacorteMichele-blue.svg?style=flat)](https://twitter.com/LacorteMichele)
 
 [![API](https://img.shields.io/badge/API-11%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=11)
@@ -40,7 +39,7 @@ This project needs you! If you would like to support this project's further deve
 
 * **[Donate $2799]**: Go buddy, buy Macbook Pro for yourself!
 
-Of course, you can also choose what you want to donate, all donations are awesome, or just choose import here <span class="badge-paypal"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=LY7EX8WMWPWV6" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
+Of course, you can also choose what you want to donate, all donations are awesome, of course, you can also choose what you want to donate, all donations are awesome!! Follow this link [Donate](https://www.paypal.me/MicheleLacorte)!!
 
 ##USAGE
 
