@@ -41,6 +41,9 @@ This project needs you! If you would like to support this project's further deve
 
 Of course, you can also choose what you want to donate, all donations are awesome!! Follow this link [Donate](https://www.paypal.me/MicheleLacorte)!!
 
+If you want to contribute you may download [Donation App](https://play.google.com/store/apps/details?id=it.michelelacorte.githubdonation) from Google Play
+
+
 ##USAGE
 
 Elastic Progress Bar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
@@ -119,6 +122,12 @@ OptionView.noBackground = true;
 To solve `Error in parsing "g/"` you have to add on `defaultConfig` tag in `build.gradle` this line:
 
     generatedDensities = []
+
+####If you want to help me please download Donation App!!
+
+<a href="https://play.google.com/store/apps/details?id=it.michelelacorte.githubdonation">
+<img alt="Get it on Google Play" src="https://s32.postimg.org/50h5qj4lx/google_play_badge.png" />
+</a>
 
 ##SYSTEM REQUIREMENT
 
