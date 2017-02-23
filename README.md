@@ -122,6 +122,13 @@ OptionView.noBackground = true;
 To solve `Error in parsing "g/"` you have to add on `defaultConfig` tag in `build.gradle` this line:
 
     generatedDensities = []
+    
+####Download Example App on Google Play!
+
+<a href="https://play.google.com/store/apps/details?id=it.michelelacorte.exampleprogressbar">
+<img alt="Get it on Google Play" src="https://s32.postimg.org/50h5qj4lx/google_play_badge.png" />
+</a>
+
 
 ####If you want to help me please download Donation App!!
 
